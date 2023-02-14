@@ -1,0 +1,1 @@
+/workspace/closures_as_input_parameters/target/debug/closures_as_input_parameters: /workspace/closures_as_input_parameters/src/main.rs

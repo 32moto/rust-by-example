@@ -1,0 +1,1 @@
+/workspace/closure_as_output_parameters/target/debug/closure_as_output_parameters: /workspace/closure_as_output_parameters/src/main.rs

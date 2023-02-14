@@ -1,0 +1,1 @@
+/workspace/associated_functions_and_methods/target/debug/associated_functions_and_methods: /workspace/associated_functions_and_methods/src/main.rs
