@@ -1,0 +1,1 @@
+/workspace/generics_associated_items_problem/target/debug/generics_associated_items_problem: /workspace/generics_associated_items_problem/src/main.rs
